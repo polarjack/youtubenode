@@ -21,7 +21,7 @@ https
       // console.log(d)
     });
     // process.stdout.write(dataQueue);
-      
+          
     // res.on("end", forend("testing"));
     res.on('end', () => {
       var output = JSON.parse(dataQueue)
@@ -37,15 +37,3 @@ https
     console.error(e);
   });
 
-function forend(dataQueue) {
-  console.log("here")
-  // console.log(dataQueue)
-  // process.stdout.write(dataQueue);
-  // var output = JSON.parse(dataQueue);
-  // var basic = output.items[0].snippet;
-  // console.log(basic)
-  // console.log("Uploader Name : " + basic.channelTitle);
-  // console.log("Uploadtime    : " + basic.publishedAt);
-  // console.log("Channel Title : " + basic.localized.title);
-  // console.log("Description   : " + basic.localized.description);
-}
