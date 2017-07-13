@@ -1,0 +1,76 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/uYfC4dzu5XNRvyLR8Wp5k10Dc54\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/3hIv9uB7zky3dvCnsL0AAUAAYKo\"",
+   "id": "LPoZm0R2tog",
+   "snippet": {
+    "publishedAt": "2017-05-18T03:37:09.000Z",
+    "channelId": "UCeF1-AP_zdfhG3J4yjUO6Dg",
+    "title": "館長 成吉思汗｜幫派史！",
+    "description": "館長twitch影片日後不會上傳更新 請至館長twitch 謝謝！！\n館長twitch頻道： https://www.twitch.tv/videos/144305990\n中華民國106年第二屆成吉思汗盃全國綜合格鬥賽:網路報名\nhttps://docs.google.com/forms/d/e/1FAIpQLScmYLZAXJV_oETF6SfFNNOB-PN8KTgXyxJ7MdmwX7BgMn8gmA/viewform?c=0&w=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/LPoZm0R2tog/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/LPoZm0R2tog/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/LPoZm0R2tog/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "精選館長",
+    "tags": [
+     "陳之漢",
+     "館長 成吉思汗",
+     "館長",
+     "成吉思汗",
+     "正確的觀念"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+     "title": "館長 成吉思汗｜幫派史！",
+     "description": "館長twitch影片日後不會上傳更新 請至館長twitch 謝謝！！\n館長twitch頻道： https://www.twitch.tv/videos/144305990\n中華民國106年第二屆成吉思汗盃全國綜合格鬥賽:網路報名\nhttps://docs.google.com/forms/d/e/1FAIpQLScmYLZAXJV_oETF6SfFNNOB-PN8KTgXyxJ7MdmwX7BgMn8gmA/viewform?c=0&w=1"
+    },
+    "defaultAudioLanguage": "zh-TW"
+   },
+   "contentDetails": {
+    "duration": "PT56M37S",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": true,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false
+   },
+   "statistics": {
+    "viewCount": "201806",
+    "likeCount": "2040",
+    "dislikeCount": "137",
+    "favoriteCount": "0",
+    "commentCount": "307"
+   }
+  }
+ ]
+}
