@@ -7,7 +7,7 @@ var videoarray = ["7BbonQ0OIQ4", "LPoZm0R2tog"];
 
 //https://stackoverflow.com/questions/4976466/difference-between-process-stdout-write-and-console-log-in-node-js
 //info link
-
+console.log(base + videoarray[1] + key + backpart)
 https
   .get(base + videoarray[1] + key + backpart, res => {
     // console.log('statusCode:', res.statusCode);
@@ -26,7 +26,7 @@ https
     res.on('end', () => {
       var output = JSON.parse(dataQueue)
       var basic = output.items[0].snippet
-      // console.log(basic)
+      console.log(output)
       console.log("Uploader Name : "+ basic.channelTitle);
       console.log("Uploadtime    : "+ basic.publishedAt)
       console.log("Channel Title : "+ basic.localized.title);
