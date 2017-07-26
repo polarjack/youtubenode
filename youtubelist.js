@@ -1,9 +1,9 @@
 const https = require("https");
 const fs = require("fs")
 
-var base = "https://www.googleapis.com/youtube/v3/playlistItems?id=";
+var base = "https://www.googleapis.com/youtube/v3/playlistItems?playlistId=";
 var key = "&key=AIzaSyClG1COBS6izq7X-_rTqMjp-N01GGNaMSA";
-var backpart = "&part=snippet";
+var backpart = "&part=snippet,contentDetails";
 // var videoarray = ["7BbonQ0OIQ4", "LPoZm0R2tog"];
 
 var videoarray = ["PLy6R6OEHvNFwry-xTKLcisJkAwmgZvQZt"]
@@ -29,10 +29,11 @@ https
     res.on('end', () => {
       var output = JSON.parse(dataQueue)
     //   var basic = output.items[0].snippet
+      
+      console.log(output)
       fs.writeFile('myjsonfile.json', output, 'utf8', function(err) {
           console.log("done")
       });
-      console.log(output)
     //   console.log(output)
     //   console.log("Uploader Name : "+ basic.channelTitle);
     //   console.log("Uploadtime    : "+ basic.publishedAt)
