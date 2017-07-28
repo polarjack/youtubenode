@@ -1,20 +1,18 @@
 const https = require("https");
 const fs = require("fs")
 
-var base = "https://www.googleapis.com/youtube/v3/playlistItems?playlistId=";
-
-var backpart = "&part=snippet,contentDetails";
-
+var base = "https://www.googleapis.com/youtube/v3/playlists?channelId=";
 var key = "&key=AIzaSyClG1COBS6izq7X-_rTqMjp-N01GGNaMSA";
+var backpart = "&part=snippet,contentDetails,localizations";
 // var videoarray = ["7BbonQ0OIQ4", "LPoZm0R2tog"];
 
-var videoarray = "PLy6R6OEHvNFylUg0HmNhg0eIUNKkRQpkz";
+var videoarray = ["UClXhJBqE9s5NoXPzGT9MiCg"]
 
 //https://stackoverflow.com/questions/4976466/difference-between-process-stdout-write-and-console-log-in-node-js
 //info link
-console.log(base + videoarray + key + backpart)
+console.log(base + videoarray[0] + key + backpart)
 https
-  .get(base + videoarray + key + backpart, res => {
+  .get(base + videoarray[0] + key + backpart, res => {
     // console.log('statusCode:', res.statusCode);
     // console.log('headers:', res.headers);
     var dataQueue = "";
@@ -33,7 +31,7 @@ https
     //   var basic = output.items[0].snippet
       
       console.log(output)
-      fs.writeFile('myjsonfile.json', output, 'utf8', function(err) {
+      fs.writeFile('singlechannellist.json', output, 'utf8', function(err) {
           console.log("done")
       });
     //   console.log(output)
