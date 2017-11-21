@@ -1,0 +1,630 @@
+{
+    "kind": "youtube#commentThreadListResponse",
+    "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/2KzjIjL6xyQa75igAL3L5omNNbo\"",
+    "nextPageToken": "QURTSl9pMVJtUHRBUW5URGtwSGc0RFdpTUxnVzVVOEg3elpCcGw1NXBMSTRXeXR5eTBnVnFpRjJtNFJ6dHVmeWp4bDM2ckVmb3YxRXdxUktCai0xOVBTazBzWTMybTAwWmlvNExXTU54dnVnTnhfeFhXLS1vc0l0NFcxWExrY2hYSjA=",
+    "pageInfo": {
+        "totalResults": 20,
+        "resultsPerPage": 20
+    },
+    "items": [{
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/ZggvlaBxB4S2KUY0cqR8MOPnOM0\"",
+        "id": "z22eed0jlorlhhhkvacdp435quoj4lrhgt4ytwftokdw03c010c",
+        "snippet": {
+            "videoId": "N88K0MCL9Vc",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/W5Zk-02a3KJc7ixgwCF0PW_IOng\"",
+                "id": "z22eed0jlorlhhhkvacdp435quoj4lrhgt4ytwftokdw03c010c",
+                "snippet": {
+                    "authorDisplayName": "劉普宣 Brian Liu",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-MwAR_jPjSmI/AAAAAAAAAAI/AAAAAAAAAAA/eQmvHNNlm-g/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UC5l0VcHbWOmyjM6FI-Pk4mw",
+                    "authorChannelId": {
+                        "value": "UC5l0VcHbWOmyjM6FI-Pk4mw"
+                    },
+                    "videoId": "N88K0MCL9Vc",
+                    "textDisplay": "還可以就市長ＮＧ！！<br />猛",
+                    "textOriginal": "還可以就市長ＮＧ！！\n猛",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-11-07T03:06:10.000Z",
+                    "updatedAt": "2017-11-07T03:06:10.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/CsjTAVtaIXQZMQ0KcrTJdXcfRsM\"",
+        "id": "z22sujbzjseqgbhy204t1aokgdewmuwupmyv2wpv4zo1rk0h00410",
+        "snippet": {
+            "videoId": "N88K0MCL9Vc",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/E3UqRBwnOp2Fj6Q-9B8LAqtcnuQ\"",
+                "id": "z22sujbzjseqgbhy204t1aokgdewmuwupmyv2wpv4zo1rk0h00410",
+                "snippet": {
+                    "authorDisplayName": "陳銓漢",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-EmKzHJCfnac/AAAAAAAAAAI/AAAAAAAAAAA/KZgTd0T8iHg/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCE0vUqrv-384kTXQ0vLf_iQ",
+                    "authorChannelId": {
+                        "value": "UCE0vUqrv-384kTXQ0vLf_iQ"
+                    },
+                    "videoId": "N88K0MCL9Vc",
+                    "textDisplay": "柯P好親民",
+                    "textOriginal": "柯P好親民",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-09-29T14:07:47.000Z",
+                    "updatedAt": "2017-09-29T14:07:47.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/70GeVv1KLYcNHaRI_O9itkmI4TA\"",
+        "id": "z23wdfjpdlzkiddxs04t1aokg1kf1cig3hc3hz5onqemrk0h00410",
+        "snippet": {
+            "videoId": "N88K0MCL9Vc",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/DKmnMHSLMzWOIHEV79UkxliXrBg\"",
+                "id": "z23wdfjpdlzkiddxs04t1aokg1kf1cig3hc3hz5onqemrk0h00410",
+                "snippet": {
+                    "authorDisplayName": "陳文明",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-ALtTBMyLzn4/AAAAAAAAAAI/AAAAAAAAAAA/KVHvSMAUMzU/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCk6g2srnSp40UooS0N9rNfg",
+                    "authorChannelId": {
+                        "value": "UCk6g2srnSp40UooS0N9rNfg"
+                    },
+                    "videoId": "N88K0MCL9Vc",
+                    "textDisplay": "剩餘549億.....我有沒有看錯....也太省了吧~....不知道其他在當市長時有剩下多少~",
+                    "textOriginal": "剩餘549億.....我有沒有看錯....也太省了吧~....不知道其他在當市長時有剩下多少~",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-09-15T15:43:56.000Z",
+                    "updatedAt": "2017-09-15T15:43:56.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/f-tejLct4XRULbWNB1QbbOmkWEU\"",
+        "id": "z22wcrtp1zzzdnjemacdp4311r2dgwzztdll4tjsguxw03c010c",
+        "snippet": {
+            "videoId": "N88K0MCL9Vc",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/lnE7ZGvCNYwMCvAkd23ndfiQKPg\"",
+                "id": "z22wcrtp1zzzdnjemacdp4311r2dgwzztdll4tjsguxw03c010c",
+                "snippet": {
+                    "authorDisplayName": "Ace Kao",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-LBlhPfqmzp8/AAAAAAAAAAI/AAAAAAAAAAA/cMJWofupdNs/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UC6twzYpIutbQnziOXfKYRBA",
+                    "authorChannelId": {
+                        "value": "UC6twzYpIutbQnziOXfKYRBA"
+                    },
+                    "videoId": "N88K0MCL9Vc",
+                    "textDisplay": "甩鍋給桃園政府？操！<br />  <br />問妳會收到哪<br />還甩鍋咧<br />這樣很難給讚",
+                    "textOriginal": "甩鍋給桃園政府？操！\n  \n問妳會收到哪\n還甩鍋咧\n這樣很難給讚",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-09-03T00:10:02.000Z",
+                    "updatedAt": "2017-09-03T00:10:49.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/P6VGRr7M8MEQCxHq3upoSb_R3xg\"",
+        "id": "z225hbiwqxjjirt2bacdp431zfaxxad0g4blkasrmfdw03c010c",
+        "snippet": {
+            "videoId": "N88K0MCL9Vc",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/3ronHo9Ihy3ObscYNonAWDc7Gf4\"",
+                "id": "z225hbiwqxjjirt2bacdp431zfaxxad0g4blkasrmfdw03c010c",
+                "snippet": {
+                    "authorDisplayName": "M ax",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-jknGzT0fu-Q/AAAAAAAAAAI/AAAAAAAAAAA/PYpM2RsLqm0/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCTm7jEcDDPJcKTu7Cw1RIwQ",
+                    "authorChannelId": {
+                        "value": "UCTm7jEcDDPJcKTu7Cw1RIwQ"
+                    },
+                    "videoId": "N88K0MCL9Vc",
+                    "textDisplay": "塞淋老木~這個游泳池不就是被上一任的團隊給白白浪費掉二十幾億新台幣??",
+                    "textOriginal": "塞淋老木~這個游泳池不就是被上一任的團隊給白白浪費掉二十幾億新台幣??",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-09-02T13:29:07.000Z",
+                    "updatedAt": "2017-09-02T13:29:07.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/9xPp6nWA4-FFPqBpwBhIWAIDo_A\"",
+        "id": "z22ffzdhisq3yjvq204t1aokgy54tc1xionqgztyt55xbk0h00410",
+        "snippet": {
+            "videoId": "N88K0MCL9Vc",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/K77JSH_iTTP9Y5_zMhImU1Xaf1w\"",
+                "id": "z22ffzdhisq3yjvq204t1aokgy54tc1xionqgztyt55xbk0h00410",
+                "snippet": {
+                    "authorDisplayName": "蔡期宏",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-bVhaSt7WF6E/AAAAAAAAAAI/AAAAAAAAAAA/HH3cZBDrADQ/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCCC6VZeHcRO4nkenDssJcKg",
+                    "authorChannelId": {
+                        "value": "UCCC6VZeHcRO4nkenDssJcKg"
+                    },
+                    "videoId": "N88K0MCL9Vc",
+                    "textDisplay": "看啾啾鞋好久了，題材真的好廣泛，但當他突然開始介紹起泳池材質時才猛然想起他專攻化學XDDD",
+                    "textOriginal": "看啾啾鞋好久了，題材真的好廣泛，但當他突然開始介紹起泳池材質時才猛然想起他專攻化學XDDD",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-09-01T01:02:32.000Z",
+                    "updatedAt": "2017-09-01T01:02:32.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/ggIsDk0DLCh6h67IdDcwf25UCvs\"",
+        "id": "z23ty10ikvuleht5b04t1aokgjd1k1j4qszbzh1yj3llbk0h00410",
+        "snippet": {
+            "videoId": "N88K0MCL9Vc",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/wLm4_S9yvC7pmAzd-TE4Qc80AGk\"",
+                "id": "z23ty10ikvuleht5b04t1aokgjd1k1j4qszbzh1yj3llbk0h00410",
+                "snippet": {
+                    "authorDisplayName": "魏庆贺",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-rhgI5aCwE-k/AAAAAAAAAAI/AAAAAAAAAAA/VFO2aGNYDVU/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCHb4wv4kJOufmLvTf6TFcdg",
+                    "authorChannelId": {
+                        "value": "UCHb4wv4kJOufmLvTf6TFcdg"
+                    },
+                    "videoId": "N88K0MCL9Vc",
+                    "textDisplay": "嘿大家好我是啾啾sei35wwww",
+                    "textOriginal": "嘿大家好我是啾啾sei35wwww",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-08-30T06:38:08.000Z",
+                    "updatedAt": "2017-08-30T06:38:08.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/F2kNtazBSZUcLL3AWIqSUoR4svg\"",
+        "id": "z23ld325gpq2erzsxacdp434tiywzldwkxp2j3ebr55w03c010c",
+        "snippet": {
+            "videoId": "N88K0MCL9Vc",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/h1D4hZmSZuhUDSIEXO_0gmm0bL4\"",
+                "id": "z23ld325gpq2erzsxacdp434tiywzldwkxp2j3ebr55w03c010c",
+                "snippet": {
+                    "authorDisplayName": "張錒婷",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-OVMOawz3qJM/AAAAAAAAAAI/AAAAAAAAAAA/VPosSzXGxXM/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UC-XSrb7LAuGOBAJFG5cmGlA",
+                    "authorChannelId": {
+                        "value": "UC-XSrb7LAuGOBAJFG5cmGlA"
+                    },
+                    "videoId": "N88K0MCL9Vc",
+                    "textDisplay": "乾!   前面開頭真的笑死我了XDDD",
+                    "textOriginal": "乾!   前面開頭真的笑死我了XDDD",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-08-29T08:13:48.000Z",
+                    "updatedAt": "2017-08-29T08:13:48.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/nEQvknBwU6hr3jfiq6RiPR_ce0Y\"",
+        "id": "z23fypsyazm3ipmqi04t1aokgec0pgdrfrc0ut2oxapgrk0h00410",
+        "snippet": {
+            "videoId": "N88K0MCL9Vc",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/ey7i_2NXySnDPNFLcluBQv_i4ys\"",
+                "id": "z23fypsyazm3ipmqi04t1aokgec0pgdrfrc0ut2oxapgrk0h00410",
+                "snippet": {
+                    "authorDisplayName": "alan chen",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-Vr8WCLz9WuE/AAAAAAAAAAI/AAAAAAAAAAA/uHfPEifCyLA/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCvocNGuHTNkiy8QXXRH_puQ",
+                    "authorChannelId": {
+                        "value": "UCvocNGuHTNkiy8QXXRH_puQ"
+                    },
+                    "videoId": "N88K0MCL9Vc",
+                    "textDisplay": "哇，鼻子好大喔⋯⋯",
+                    "textOriginal": "哇，鼻子好大喔⋯⋯",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-08-28T06:25:10.000Z",
+                    "updatedAt": "2017-08-28T06:25:10.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/x_8ayNM3TKJNzMhM6tmZg3ba0Og\"",
+        "id": "z23eunj4bqi3fzkaq04t1aokgvevhbzohczidqctgniybk0h00410",
+        "snippet": {
+            "videoId": "N88K0MCL9Vc",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/_I0BOLhsoHopM6VZzHc7q2K6bkI\"",
+                "id": "z23eunj4bqi3fzkaq04t1aokgvevhbzohczidqctgniybk0h00410",
+                "snippet": {
+                    "authorDisplayName": "袁瑞鴻",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-x5AjGmrAdRI/AAAAAAAAAAI/AAAAAAAAAAA/vOEc_wNn8nc/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCUMscor7Qs2D-X2huqklM_Q",
+                    "authorChannelId": {
+                        "value": "UCUMscor7Qs2D-X2huqklM_Q"
+                    },
+                    "videoId": "N88K0MCL9Vc",
+                    "textDisplay": "但是這看起來把他埋在裡面拉，怎麼拆?",
+                    "textOriginal": "但是這看起來把他埋在裡面拉，怎麼拆?",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-08-26T14:12:25.000Z",
+                    "updatedAt": "2017-08-26T14:12:25.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/kQKgYh8XNS_LbTtEF0si3T3pnoQ\"",
+        "id": "z22ft124lqqicf5fcacdp43b3gtonnnzb23l430ccjtw03c010c",
+        "snippet": {
+            "videoId": "N88K0MCL9Vc",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/bHoGY9OPbjmLDFXxtaxHm7dTAuI\"",
+                "id": "z22ft124lqqicf5fcacdp43b3gtonnnzb23l430ccjtw03c010c",
+                "snippet": {
+                    "authorDisplayName": "張棋翔",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-f2Kf_qRYg9c/AAAAAAAAAAI/AAAAAAAAAAA/aeRHuiole4A/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UC3-4RG7PONRELfCGawEcB9A",
+                    "authorChannelId": {
+                        "value": "UC3-4RG7PONRELfCGawEcB9A"
+                    },
+                    "videoId": "N88K0MCL9Vc",
+                    "textDisplay": "可惜不順利喔",
+                    "textOriginal": "可惜不順利喔",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-08-20T16:06:08.000Z",
+                    "updatedAt": "2017-08-20T16:06:08.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/st-mHGlw1Rp-RoKg8PLQvWeGAiQ\"",
+        "id": "z23ugbr53qfiuhm4e04t1aokgm351033q43uappbv0u1rk0h00410",
+        "snippet": {
+            "videoId": "N88K0MCL9Vc",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/2U_9Em9UlZwGRDtpTwIW7oa4qzQ\"",
+                "id": "z23ugbr53qfiuhm4e04t1aokgm351033q43uappbv0u1rk0h00410",
+                "snippet": {
+                    "authorDisplayName": "#凡人x阿風 OuOb",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-_37yyW0c-OI/AAAAAAAAAAI/AAAAAAAAAAA/Lm7zmjR0gEw/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCPrv6qPcV_ckRNwp_KouQJA",
+                    "authorChannelId": {
+                        "value": "UCPrv6qPcV_ckRNwp_KouQJA"
+                    },
+                    "videoId": "N88K0MCL9Vc",
+                    "textDisplay": "XDXD 市長好笑,對了，回我有驚喜",
+                    "textOriginal": "XDXD 市長好笑,對了，回我有驚喜",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-08-18T10:06:09.000Z",
+                    "updatedAt": "2017-08-18T10:06:09.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/o2kmblbgVLXy5Ok7OHSbHORhX9I\"",
+        "id": "z23rxvuopkvws1rjr04t1aokg1ylblolojuq1gkglnu3rk0h00410",
+        "snippet": {
+            "videoId": "N88K0MCL9Vc",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/FcFA06TZlprz10i1POEyVCs1Ogw\"",
+                "id": "z23rxvuopkvws1rjr04t1aokg1ylblolojuq1gkglnu3rk0h00410",
+                "snippet": {
+                    "authorDisplayName": "韓鎧蔚",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-KT0BWPmNrhU/AAAAAAAAAAI/AAAAAAAAAAA/jdLBS6dWcio/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCEV9XLoEpAc61q1cal9JC1w",
+                    "authorChannelId": {
+                        "value": "UCEV9XLoEpAc61q1cal9JC1w"
+                    },
+                    "videoId": "N88K0MCL9Vc",
+                    "textDisplay": "柯p最後那個嗨😂笑翻",
+                    "textOriginal": "柯p最後那個嗨😂笑翻",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-08-17T05:42:37.000Z",
+                    "updatedAt": "2017-08-17T05:42:37.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/5t2CKsMKJjhH7W2pVjs8h581DNo\"",
+        "id": "z23fufa5kmamvztib04t1aokgri11fvho14q5trmvgixbk0h00410",
+        "snippet": {
+            "videoId": "N88K0MCL9Vc",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/cEYUSv_8KesKZtH4b3PNA6x2rTc\"",
+                "id": "z23fufa5kmamvztib04t1aokgri11fvho14q5trmvgixbk0h00410",
+                "snippet": {
+                    "authorDisplayName": "荻落斯 WU",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/--McZuqH7TNM/AAAAAAAAAAI/AAAAAAAAAAA/b7-sMYdOTjc/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCpNZpbjshdpU1ZfBoBFjfpg",
+                    "authorChannelId": {
+                        "value": "UCpNZpbjshdpU1ZfBoBFjfpg"
+                    },
+                    "videoId": "N88K0MCL9Vc",
+                    "textDisplay": "有人跟我一樣前面4秒鐘一職重播嗎XD?",
+                    "textOriginal": "有人跟我一樣前面4秒鐘一職重播嗎XD?",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-08-16T14:10:44.000Z",
+                    "updatedAt": "2017-08-16T14:10:44.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/YSd8ob0_KxHuDes-bhEsB5Ps8j4\"",
+        "id": "z23ewndrfy3felrcmacdp43awojyzrcsk3hddylomldw03c010c",
+        "snippet": {
+            "videoId": "N88K0MCL9Vc",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/DC1MeaddB1A7tllVO1njFJQADrg\"",
+                "id": "z23ewndrfy3felrcmacdp43awojyzrcsk3hddylomldw03c010c",
+                "snippet": {
+                    "authorDisplayName": "吳澤旻",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-6Va3ftgMDvs/AAAAAAAAAAI/AAAAAAAAAAA/gH68Tik9ZEM/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCJ4KhKVYFaPH7xuaWPUyO0g",
+                    "authorChannelId": {
+                        "value": "UCJ4KhKVYFaPH7xuaWPUyO0g"
+                    },
+                    "videoId": "N88K0MCL9Vc",
+                    "textDisplay": "快笑死😂😂為什麼最後要嗨😂",
+                    "textOriginal": "快笑死😂😂為什麼最後要嗨😂",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-08-16T13:27:29.000Z",
+                    "updatedAt": "2017-08-16T13:27:29.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/01_crd2pfejKyUWv9lZXCGaJZhY\"",
+        "id": "z23kc3fpyynbvj54m04t1aokgwsw1a05z2mgthhadneybk0h00410",
+        "snippet": {
+            "videoId": "N88K0MCL9Vc",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/SwcRzpAer0QNZvdNZH9rgrtjJ4U\"",
+                "id": "z23kc3fpyynbvj54m04t1aokgwsw1a05z2mgthhadneybk0h00410",
+                "snippet": {
+                    "authorDisplayName": "超狂 Asriel",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-bRCFLYdXdf0/AAAAAAAAAAI/AAAAAAAAAAA/luQrX0o6GVs/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UC2qGKNJv_pFMafFUIvy5kNg",
+                    "authorChannelId": {
+                        "value": "UC2qGKNJv_pFMafFUIvy5kNg"
+                    },
+                    "videoId": "N88K0MCL9Vc",
+                    "textDisplay": "科p誒！(明明是哲哲鞋!!!)",
+                    "textOriginal": "科p誒！(明明是哲哲鞋!!!)",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-08-15T14:07:19.000Z",
+                    "updatedAt": "2017-08-15T14:07:19.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/D8F8eJxIZDToTehmDw5MMCOOWQg\"",
+        "id": "z23lhdqq4sjlexwrc04t1aokggpt3dwie0zrpg15hv30bk0h00410",
+        "snippet": {
+            "videoId": "N88K0MCL9Vc",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/9xMRvEkPQV5iIN9RxF5an0uHNuI\"",
+                "id": "z23lhdqq4sjlexwrc04t1aokggpt3dwie0zrpg15hv30bk0h00410",
+                "snippet": {
+                    "authorDisplayName": "迷彩小刀",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-ZdPQmImjWZE/AAAAAAAAAAI/AAAAAAAAAAA/8reEAgHDUWM/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCOEQdKsMEaxG61rT7dW8prA",
+                    "authorChannelId": {
+                        "value": "UCOEQdKsMEaxG61rT7dW8prA"
+                    },
+                    "videoId": "N88K0MCL9Vc",
+                    "textDisplay": "哎，好亲民的市长。",
+                    "textOriginal": "哎，好亲民的市长。",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-08-15T07:37:30.000Z",
+                    "updatedAt": "2017-08-15T07:37:30.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/tWr8GfjaTgB9sil4kXvFyf4LVX4\"",
+        "id": "z23ve1byfxbxhdqws04t1aokgsue3iztcg2poasdvl4mrk0h00410",
+        "snippet": {
+            "videoId": "N88K0MCL9Vc",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/Yb6-dt_phxILsCnLEcGAxUllOvA\"",
+                "id": "z23ve1byfxbxhdqws04t1aokgsue3iztcg2poasdvl4mrk0h00410",
+                "snippet": {
+                    "authorDisplayName": "柴鼠兄弟 ZRBros",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-Ek5a8SM1OMM/AAAAAAAAAAI/AAAAAAAAAAA/64ObgSM5QUM/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UC45i13dEfEVac2IEJT_Nr5Q",
+                    "authorChannelId": {
+                        "value": "UC45i13dEfEVac2IEJT_Nr5Q"
+                    },
+                    "videoId": "N88K0MCL9Vc",
+                    "textDisplay": "哈哈哈，訪問市長好好玩喔😆",
+                    "textOriginal": "哈哈哈，訪問市長好好玩喔😆",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-08-12T04:50:27.000Z",
+                    "updatedAt": "2017-08-12T04:50:27.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/Xpy41gopxlbQ9tJnX_dYf1NiYu8\"",
+        "id": "z22bflui2yntdlbwv04t1aokgurcsw1r202uyiqr2l3hrk0h00410",
+        "snippet": {
+            "videoId": "N88K0MCL9Vc",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/h7L1_OZBqCWSRSyQVTLzM3XJYDs\"",
+                "id": "z22bflui2yntdlbwv04t1aokgurcsw1r202uyiqr2l3hrk0h00410",
+                "snippet": {
+                    "authorDisplayName": "可樂精靈",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-8T2i4IcHZVk/AAAAAAAAAAI/AAAAAAAAAAA/sD-27qX6l_Y/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCCH1vrfKR8xxcooKd8WbgIg",
+                    "authorChannelId": {
+                        "value": "UCCH1vrfKR8xxcooKd8WbgIg"
+                    },
+                    "videoId": "N88K0MCL9Vc",
+                    "textDisplay": "<a href=\"https://www.youtube.com/watch?v=N88K0MCL9Vc&amp;t=3m03s\">3:03</a>櫃子裡的&quot;選戰建議&quot;www<br />字跡也太可愛",
+                    "textOriginal": "3:03櫃子裡的\"選戰建議\"www\n字跡也太可愛",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-08-11T04:54:21.000Z",
+                    "updatedAt": "2017-08-11T04:54:21.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/vRyQdWF1njaztFfU5Ol3VLoNTWc\"",
+        "id": "z225t1pqnwenhnrulacdp433guixxzgiooajxrni4j5w03c010c",
+        "snippet": {
+            "videoId": "N88K0MCL9Vc",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/SlsAv6dP1wPPvEiKARteRyFAfko\"",
+                "id": "z225t1pqnwenhnrulacdp433guixxzgiooajxrni4j5w03c010c",
+                "snippet": {
+                    "authorDisplayName": "freddy93197",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-e33iFHZZx-A/AAAAAAAAAAI/AAAAAAAAAAA/ZZijMBGbmB8/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCOhbV8ZL4_0kx0T-qfSk_eA",
+                    "authorChannelId": {
+                        "value": "UCOhbV8ZL4_0kx0T-qfSk_eA"
+                    },
+                    "videoId": "N88K0MCL9Vc",
+                    "textDisplay": "柯市長 你的中華台北 會毀掉你之前所有的分數<br />世大運大會會場 如果名稱叫中華台北 國旗不能拿出來 真的你下一任不用選了 喪權辱國真的是可恥<br />在外面的國家辦被矮化就算了 在自己的國家辦居然還要中華台北?? FISU已經發聲明了 所以世大運發言人在說謊??<br />柯市長 你別讓你的努力毀在中華台北4個字底下",
+                    "textOriginal": "柯市長 你的中華台北 會毀掉你之前所有的分數\n世大運大會會場 如果名稱叫中華台北 國旗不能拿出來 真的你下一任不用選了 喪權辱國真的是可恥\n在外面的國家辦被矮化就算了 在自己的國家辦居然還要中華台北?? FISU已經發聲明了 所以世大運發言人在說謊??\n柯市長 你別讓你的努力毀在中華台北4個字底下",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-08-08T11:04:44.000Z",
+                    "updatedAt": "2017-08-08T11:04:44.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }]
+}

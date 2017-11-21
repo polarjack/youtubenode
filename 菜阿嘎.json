@@ -1,0 +1,630 @@
+{
+    "kind": "youtube#commentThreadListResponse",
+    "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/yprnO9Nfj2QN_9vOnQhrsnGpoDE\"",
+    "nextPageToken": "QURTSl9pM0RrakFNMGlZenY5WFljbGxrVHBVUXZIMWJuMW12WkpBY3Y0ZFd6V1dEeVRzUmxRWWZKMnl1bHdWWWZ6eWNkbXFUM0p4TktoWmNjc2tIeU0tcUlMM2RPdjNVV21NVVo1TnFLYmZBbmNQc3ZDY19fZld0dVRsdVB0RHQ=",
+    "pageInfo": {
+        "totalResults": 20,
+        "resultsPerPage": 20
+    },
+    "items": [{
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/Hh0VR-JQGUIWr7h6fE45C5egnEQ\"",
+        "id": "z23ttrvofleif5y0pacdp434xla2hssdfaearnw0ge5w03c010c",
+        "snippet": {
+            "videoId": "xuCQFhPanr4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/PB68CfUDsDmZWj-WJrryOQv3rVg\"",
+                "id": "z23ttrvofleif5y0pacdp434xla2hssdfaearnw0ge5w03c010c",
+                "snippet": {
+                    "authorDisplayName": "家杰",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-clw6VQW7CRk/AAAAAAAAAAI/AAAAAAAAAAA/dN49yVZ1Fg0/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UC4UESx74esUC7HMimhM-ixA",
+                    "authorChannelId": {
+                        "value": "UC4UESx74esUC7HMimhM-ixA"
+                    },
+                    "videoId": "xuCQFhPanr4",
+                    "textDisplay": "是柯粉舉手好嗎？！",
+                    "textOriginal": "是柯粉舉手好嗎？！",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-11-18T03:21:07.000Z",
+                    "updatedAt": "2017-11-18T03:21:07.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/hi59JT__E7XS9W7yqNHpEQNTpA8\"",
+        "id": "z23gzzfrwz3tf12sxacdp434hy0i5rslcfrjh5jw2p5w03c010c",
+        "snippet": {
+            "videoId": "xuCQFhPanr4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/L5xZTezYiDq3pFHzp-8aiImhnOQ\"",
+                "id": "z23gzzfrwz3tf12sxacdp434hy0i5rslcfrjh5jw2p5w03c010c",
+                "snippet": {
+                    "authorDisplayName": "Jhih-Rung Liu",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-dET1mQup1Xc/AAAAAAAAAAI/AAAAAAAAAAA/IeMlxQBgaE0/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCTtvU0VRaEwPH6GeANMWmuw",
+                    "authorChannelId": {
+                        "value": "UCTtvU0VRaEwPH6GeANMWmuw"
+                    },
+                    "videoId": "xuCQFhPanr4",
+                    "textDisplay": "😘 神嘎 vs. 柯貝～ 17 🗽～ Fu  <br />👑 海闊天空～爽爽達～ lol 哈哈<br /><br />🍍 最好的～祝福<br />🎅 男子  柔和莊嚴～強而有力量<br /><a href=\"http://www.youtube.com/results?search_query=%23%E7%B6%A0%E5%BA%A6%E6%AF%8D%E5%BF%83%E5%92%92\">#綠度母心���</a><br /><a href=\"https://youtu.be/nYXk-oIrTdg\">https://youtu.be/nYXk-oIrTdg</a><br /><br />💎 <br /><a href=\"http://www.youtube.com/results?search_query=%23%E7%A9%BF%E8%B6%8A%E6%99%82%E7%A9%BA%E7%9A%84%E5%AE%88%E8%AD%B7\">#穿越時空的守護</a>  <a href=\"http://www.youtube.com/results?search_query=%23%E7%B6%A0%E5%BA%A6%E6%AF%8D\">#綠度母</a><br />～ Ito Kayo 🎅 依藤佳代～<br /><a href=\"https://youtu.be/GceUdgLhrpk\">https://youtu.be/GceUdgLhrpk</a><br /><br />♥♥♥♥♥♥♥♥♥♥♥<br />🎅 <br />～歐蜜陀佛～TO：<a href=\"http://www.youtube.com/results?search_query=%23%E5%A4%A7%E5%AD%B8%E9%83%A8\">#大學部</a> 同學 <br /><br />可否請  轉傳  認識 的 <br />【中低 收入戶  的 大學生】，<br /><br />👑【鴻海 獎學金】 <a href=\"http://www.youtube.com/results?search_query=%23300%E5%80%8B\">#300個</a>  名額，<br />每人  有  <a href=\"http://www.youtube.com/results?search_query=%23%E5%8D%81%E8%90%AC\">#十萬</a>  的 獎學金，<br /><br />內部  人員 說  現在  還是  不足額， <br /><br />換句話  說～條件符合  獎學金 <br />～上的  機會  很大喔！<br /><a href=\"https://drive.google.com/drive/folders/0B1JSihsb4SUTU19fZTBxRmZzVXc\">https://drive.google.com/drive/folders/0B1JSihsb4SUTU19fZTBxRmZzVXc</a><br />【 申請  日期～  10/30 】，<br /><br />我們  有一些  中低收  畢業生<br />是  大學生，<br /><br />目前  手上  的 孩子 <br />雖然  還沒  上大學，<br /><br />🗽 也可以  先讓  <a href=\"http://www.youtube.com/results?search_query=%23%E4%B8%8A%E9%80%B2\">#上進</a>  的 孩子<br />知道有  這個  <a href=\"http://www.youtube.com/results?search_query=%23%E8%B3%87%E6%BA%90\">#資源</a>  唷！",
+                    "textOriginal": "😘 神嘎 vs. 柯貝～ 17 🗽～ Fu  \n👑 海闊天空～爽爽達～ lol 哈哈\n\n🍍 最好的～祝福\n🎅 男子  柔和莊嚴～強而有力量\n#綠度母心咒\nhttps://youtu.be/nYXk-oIrTdg\n\n💎 \n#穿越時空的守護  #綠度母\n～ Ito Kayo 🎅 依藤佳代～\nhttps://youtu.be/GceUdgLhrpk\n\n♥♥♥♥♥♥♥♥♥♥♥\n🎅 \n～歐蜜陀佛��TO：#大學部 同學 \n\n可否請  轉傳  認識 的 \n【中低 收入戶  的 大學生】，\n\n👑【鴻海 獎學金】 #300個  名額，\n每人  有  #十萬  的 獎學金，\n\n內部  人員 說  現在  還是  不足額， \n\n換句話  說～條件符合  獎學金 \n～上的  機會  很大喔！\nhttps://drive.google.com/drive/folders/0B1JSihsb4SUTU19fZTBxRmZzVXc\n【 申請  日期～  10/30 】，\n\n我們  有一些  中低收  畢業生\n是  大學生，\n\n目前  手上  的 孩子 \n雖然  還沒  上大學，\n\n🗽 也可以  先讓  #上進  的 孩子\n知道有  這個  #資源  唷！",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-11-02T15:11:05.000Z",
+                    "updatedAt": "2017-11-02T15:11:05.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/e0kqMf3LD_K2LQTyHVViDNK0bMQ\"",
+        "id": "z23yy3yrpk3jgl3uuacdp433dekpqffjjkk3vhchsu1w03c010c",
+        "snippet": {
+            "videoId": "xuCQFhPanr4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/YDiJ9Ch0I-V8OCL-3sSOHVNyqlc\"",
+                "id": "z23yy3yrpk3jgl3uuacdp433dekpqffjjkk3vhchsu1w03c010c",
+                "snippet": {
+                    "authorDisplayName": "烟沙",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-CajAdOZYYy4/AAAAAAAAAAI/AAAAAAAAAAA/VVm-F0wQl6M/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCKvgkUbfjuzN6Nz1cFss0cQ",
+                    "authorChannelId": {
+                        "value": "UCKvgkUbfjuzN6Nz1cFss0cQ"
+                    },
+                    "videoId": "xuCQFhPanr4",
+                    "textDisplay": "什么狗屎，明明是闽南语，还硬搞成四不像的台语，垃圾鬼岛。",
+                    "textOriginal": "什么狗屎，明明是闽南语，还硬搞成四不像的台语，垃圾鬼岛。",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-11-01T13:14:27.000Z",
+                    "updatedAt": "2017-11-01T13:14:27.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/07BBpAeyaBcQfjMeyxOgVQJgE_Q\"",
+        "id": "z235fhfzqvjwcjsnracdp431bqmmztkomgoumzqlaq1w03c010c",
+        "snippet": {
+            "videoId": "xuCQFhPanr4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/vnPSIunAqY6rWLPpewC3f7-O4Jo\"",
+                "id": "z235fhfzqvjwcjsnracdp431bqmmztkomgoumzqlaq1w03c010c",
+                "snippet": {
+                    "authorDisplayName": "奇 可Eve",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-x84xs6_vk80/AAAAAAAAAAI/AAAAAAAAAAA/YPFIkeYfx8Y/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCn5KhZU_i2ZFoH-Xzu70cmA",
+                    "authorChannelId": {
+                        "value": "UCn5KhZU_i2ZFoH-Xzu70cmA"
+                    },
+                    "videoId": "xuCQFhPanr4",
+                    "textDisplay": "葉克膜是什麼？？",
+                    "textOriginal": "葉克膜是什麼？？",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-10-28T06:47:14.000Z",
+                    "updatedAt": "2017-10-28T06:47:14.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/QxllIkeKL3o2Ctaqei2FMBaKp6k\"",
+        "id": "z233xb0p1piuwxxyc04t1aokgcbb1qoauhfk5tkitxkqrk0h00410",
+        "snippet": {
+            "videoId": "xuCQFhPanr4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/eiky_vSOkQLbh9ZIYBoNb5Pwwko\"",
+                "id": "z233xb0p1piuwxxyc04t1aokgcbb1qoauhfk5tkitxkqrk0h00410",
+                "snippet": {
+                    "authorDisplayName": "BARRR",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/--1WDItSZIVA/AAAAAAAAAAI/AAAAAAAAAAA/9dJBST-LIr4/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UC_qMxTsXJO9sTnF8ukGHjbw",
+                    "authorChannelId": {
+                        "value": "UC_qMxTsXJO9sTnF8ukGHjbw"
+                    },
+                    "videoId": "xuCQFhPanr4",
+                    "textDisplay": "我天龍國民，首次投票就是投苛屁，我政治上唯一的後悔。",
+                    "textOriginal": "我天龍國民，首次投票就是投苛屁，我政治上唯一的後悔。",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-10-27T04:50:12.000Z",
+                    "updatedAt": "2017-10-27T04:50:12.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/ICc6Det4lVv66ZNdL0l9il6br10\"",
+        "id": "z233xb0p1piuwxxyc04t1aokg3xhw1m14vgz4o5ahsoxbk0h00410",
+        "snippet": {
+            "videoId": "xuCQFhPanr4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/6ZGyaw3iJQXDjtW10S0mu0AfRZQ\"",
+                "id": "z233xb0p1piuwxxyc04t1aokg3xhw1m14vgz4o5ahsoxbk0h00410",
+                "snippet": {
+                    "authorDisplayName": "BARRR",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/--1WDItSZIVA/AAAAAAAAAAI/AAAAAAAAAAA/9dJBST-LIr4/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UC_qMxTsXJO9sTnF8ukGHjbw",
+                    "authorChannelId": {
+                        "value": "UC_qMxTsXJO9sTnF8ukGHjbw"
+                    },
+                    "videoId": "xuCQFhPanr4",
+                    "textDisplay": "你有沒有問苛屁為什麼這麼親中？",
+                    "textOriginal": "你有沒有問苛屁為什麼這麼親中？",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-10-27T04:47:18.000Z",
+                    "updatedAt": "2017-10-27T04:47:18.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/GPAVPcHTmUqy1V36w2OqYe0N3vc\"",
+        "id": "z224hrkxfunsyn4i204t1aokg4xfoaozytld14y3tjkfrk0h00410",
+        "snippet": {
+            "videoId": "xuCQFhPanr4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/eKG_DiPFO1o_05tchbouxAi-F8k\"",
+                "id": "z224hrkxfunsyn4i204t1aokg4xfoaozytld14y3tjkfrk0h00410",
+                "snippet": {
+                    "authorDisplayName": "看照約妹",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-wqydAVnkoqs/AAAAAAAAAAI/AAAAAAAAAAA/zDVfo2Y0Fwo/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCDdBNo4f5czeBCRF4W5DFBA",
+                    "authorChannelId": {
+                        "value": "UCDdBNo4f5czeBCRF4W5DFBA"
+                    },
+                    "videoId": "xuCQFhPanr4",
+                    "textDisplay": "ss台灣出差旅遊找小姐打炮+LINE：zs101 看照約妹無套BJ 口爆 走後 加LINE：zs101或微信：x5278mm（加入說是阿彬介紹即送現金折扣1000~3000）",
+                    "textOriginal": "ss台灣出差旅遊找小姐打炮+LINE：zs101 看照約妹無套BJ 口爆 走後 加LINE：zs101或微信：x5278mm（加入說是阿彬介紹即送現金折扣1000~3000）",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-10-24T14:18:08.000Z",
+                    "updatedAt": "2017-10-24T14:18:08.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/PipNdA9mgJaTKHnMSYxE9L3AR5I\"",
+        "id": "z23ginj4enjku1mjc04t1aokgtx3pf1esvuovgcfse5hbk0h00410",
+        "snippet": {
+            "videoId": "xuCQFhPanr4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/cwTtlamPAv-VZ8OSniDGVJ44LjQ\"",
+                "id": "z23ginj4enjku1mjc04t1aokgtx3pf1esvuovgcfse5hbk0h00410",
+                "snippet": {
+                    "authorDisplayName": "錫米特約媒人",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-D4dK2F-PnCI/AAAAAAAAAAI/AAAAAAAAAAA/RqCI-gBN9hA/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCq6WNZ9QE0M14HjBl8eO-uw",
+                    "authorChannelId": {
+                        "value": "UCq6WNZ9QE0M14HjBl8eO-uw"
+                    },
+                    "videoId": "xuCQFhPanr4",
+                    "textDisplay": "草東沒有派對的歌認真好聽（重點誤",
+                    "textOriginal": "草東沒有派對的歌認真好聽（重點誤",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-10-20T15:47:11.000Z",
+                    "updatedAt": "2017-10-20T15:47:11.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/2FuYc6OCv7Ibtm9AaarwD5-r3l0\"",
+        "id": "z22ifnl4bw3itlizq04t1aokgys1ee3bfwcy1oigkmvzrk0h00410",
+        "snippet": {
+            "videoId": "xuCQFhPanr4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/rnUW84Zo1dvffOy9HthB45FgXNY\"",
+                "id": "z22ifnl4bw3itlizq04t1aokgys1ee3bfwcy1oigkmvzrk0h00410",
+                "snippet": {
+                    "authorDisplayName": "諸葛丞相",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-eLWK7YwR_Hk/AAAAAAAAAAI/AAAAAAAAAAA/uz8xpAaiLeI/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCkGjIVu1_r1RxgPUA85uDQA",
+                    "authorChannelId": {
+                        "value": "UCkGjIVu1_r1RxgPUA85uDQA"
+                    },
+                    "videoId": "xuCQFhPanr4",
+                    "textDisplay": "垃圾不分魏蜀吳",
+                    "textOriginal": "垃圾不分魏蜀吳",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-10-17T00:26:39.000Z",
+                    "updatedAt": "2017-10-17T00:26:39.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/k1ppKbeApUCgkd1oMr_UntSoLrg\"",
+        "id": "z22sx1jbokbvsz3rx04t1aokgj2oymlpccpsnqnhz2yvbk0h00410",
+        "snippet": {
+            "videoId": "xuCQFhPanr4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/z7hjXk29j8c12eBdQgeKX5NA4Sw\"",
+                "id": "z22sx1jbokbvsz3rx04t1aokgj2oymlpccpsnqnhz2yvbk0h00410",
+                "snippet": {
+                    "authorDisplayName": "niz wcancer",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-XZrjykSq9L0/AAAAAAAAAAI/AAAAAAAAAAA/XH7LQH8Wspg/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCFj_ngVAP81ySMIxriYhHWg",
+                    "authorChannelId": {
+                        "value": "UCFj_ngVAP81ySMIxriYhHWg"
+                    },
+                    "videoId": "xuCQFhPanr4",
+                    "textDisplay": "不要忘了...<br /><br />柯小P海賊團...<br />曾率領80萬白色大軍...<br /><br />擊沈來自藍海的.吃了金寶.銀寶.弟寶寶...<br />三寶果實能力者...神豬海賊團...<br />整個艦隊沉沒於...<br />福爾摩���的北方盆地十二處...<br /><br />吃了誠實豆沙包果實...<br />擁有白目能力的柯小P...<br />有能力成為第五皇...<br /><br />使幕後的百獸海賊團中的三大將...<br /><br />吃了統一果實能力...馬皇<br />吃了權貴果實能力...天龍<br />吃了馬屁果實能力...奴才小強<br /><br />嚇的屁滾尿流...<br /><br />如果柯小P是要成為海賊王的魯夫P...<br />熊讚就是曬黑的喬巴熊!...<br /><br />帶領年輕一代看到新世界...<br /><br />...<br />...<br />...",
+                    "textOriginal": "不要忘了...\n\n柯小P海賊團...\n曾率領80萬白色大軍...\n\n擊沈來自藍海的.吃了金寶.銀寶.弟寶寶...\n三寶果實能力者...神豬海賊團...\n整個艦隊沉沒於...\n福爾摩沙的北方盆地十二處...\n\n吃了誠實豆沙包果實...\n擁有白目能力的柯小P...\n有能力成為第五皇...\n\n使幕後的百獸海賊團中的三大將...\n\n吃了統一果實能力...馬皇\n吃了權貴果實能力...天龍\n吃了馬屁果實能力...奴才小強\n\n嚇的屁滾尿流...\n\n如果柯小P是要成為海賊王的魯夫P...\n熊讚就是曬黑的喬巴熊!...\n\n���領年輕一代看到新世界...\n\n...\n...\n...",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-10-14T12:51:07.000Z",
+                    "updatedAt": "2017-10-14T12:51:07.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/J_3itus5m-SYAwKE3KXoApioobQ\"",
+        "id": "z22wv5eixuesvn23jacdp435f0dmqhhisxtle0vl5cpw03c010c",
+        "snippet": {
+            "videoId": "xuCQFhPanr4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/Du28tyVNLkcqyjQFKriCtTOLxSg\"",
+                "id": "z22wv5eixuesvn23jacdp435f0dmqhhisxtle0vl5cpw03c010c",
+                "snippet": {
+                    "authorDisplayName": "zhuer wang",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-XJ_8uJbQh5k/AAAAAAAAAAI/AAAAAAAAAAA/b0LeQVqMHEw/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCNn43HcgA3ipRHk-wk8vkrw",
+                    "authorChannelId": {
+                        "value": "UCNn43HcgA3ipRHk-wk8vkrw"
+                    },
+                    "videoId": "xuCQFhPanr4",
+                    "textDisplay": "9 ball in 怪獸那集有出過?xDDD",
+                    "textOriginal": "9 ball in 怪獸那集有出過?xDDD",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-10-08T12:42:28.000Z",
+                    "updatedAt": "2017-10-08T12:42:28.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/e9zBOySPQDyHAuxOrHgBng6lv7s\"",
+        "id": "z22uyvh4il20tjtewacdp4304hdldaoqehbzcf1has5w03c010c",
+        "snippet": {
+            "videoId": "xuCQFhPanr4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/waDhCf_M3YiQyHQ7WzVeSDw0d_M\"",
+                "id": "z22uyvh4il20tjtewacdp4304hdldaoqehbzcf1has5w03c010c",
+                "snippet": {
+                    "authorDisplayName": "孔函籍",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-sZF8aLDmhqk/AAAAAAAAAAI/AAAAAAAAAAA/32EwqpG-3fI/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCv3mhTxEzajlXu-y9_Jf4lg",
+                    "authorChannelId": {
+                        "value": "UCv3mhTxEzajlXu-y9_Jf4lg"
+                    },
+                    "videoId": "xuCQFhPanr4",
+                    "textDisplay": "我這個人很簡單<br />有藏鏡人就按讚",
+                    "textOriginal": "我這個人很簡單\n有藏鏡人就按讚",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-10-08T02:46:49.000Z",
+                    "updatedAt": "2017-10-08T02:46:49.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/cjTa5rAaygSJU3Gl9zKD0mTBR8A\"",
+        "id": "z222h1ng2y24vj4ps04t1aokgadddzvoh0amj2j4edsork0h00410",
+        "snippet": {
+            "videoId": "xuCQFhPanr4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/n_81iKoN_4zND9rWGUWsVEPneqs\"",
+                "id": "z222h1ng2y24vj4ps04t1aokgadddzvoh0amj2j4edsork0h00410",
+                "snippet": {
+                    "authorDisplayName": "劉炮言",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-IO_mSYFOw_Q/AAAAAAAAAAI/AAAAAAAAAAA/rFjr_lHC7v0/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCCxLFf4McYZs9DiNiG_r2Ww",
+                    "authorChannelId": {
+                        "value": "UCCxLFf4McYZs9DiNiG_r2Ww"
+                    },
+                    "videoId": "xuCQFhPanr4",
+                    "textDisplay": "閩南語就閩南語   台語聽起來好煩！",
+                    "textOriginal": "閩南語就閩南語   台語聽起來好煩！",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-10-02T11:31:43.000Z",
+                    "updatedAt": "2017-10-02T11:31:43.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/gfIvuV_0Op95RvZEfuaYMTqUt34\"",
+        "id": "z22szbg4gvzrjj2aw04t1aokgtje0jjsofrqqcimow4abk0h00410",
+        "snippet": {
+            "videoId": "xuCQFhPanr4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/e1q03Rw0A0TSZXTGcQ-xaut8eiI\"",
+                "id": "z22szbg4gvzrjj2aw04t1aokgtje0jjsofrqqcimow4abk0h00410",
+                "snippet": {
+                    "authorDisplayName": "Mo Mao",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-gZ76cA66rnw/AAAAAAAAAAI/AAAAAAAAAAA/IS0k5queZgc/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCMzPnpvyhLyCpKKcUrC3b9A",
+                    "authorChannelId": {
+                        "value": "UCMzPnpvyhLyCpKKcUrC3b9A"
+                    },
+                    "videoId": "xuCQFhPanr4",
+                    "textDisplay": "太可愛了",
+                    "textOriginal": "太可愛了",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-09-29T19:36:39.000Z",
+                    "updatedAt": "2017-09-29T19:36:39.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/QZ1UNPoBRoxEi905IW0KwcppR7s\"",
+        "id": "z22mcrbgzsfvd5na204t1aokggkcuddpeywhgolnaxxcrk0h00410",
+        "snippet": {
+            "videoId": "xuCQFhPanr4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/4rJuY4y9ytu1MLy9tDpxlhnc9HM\"",
+                "id": "z22mcrbgzsfvd5na204t1aokggkcuddpeywhgolnaxxcrk0h00410",
+                "snippet": {
+                    "authorDisplayName": "Hanna Chen",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-3Td2U25R1gU/AAAAAAAAAAI/AAAAAAAAAAA/V7mUSYj5Pzc/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCu9g7EeyG8P7qGpG26qHCRA",
+                    "authorChannelId": {
+                        "value": "UCu9g7EeyG8P7qGpG26qHCRA"
+                    },
+                    "videoId": "xuCQFhPanr4",
+                    "textDisplay": "好想藏鏡人",
+                    "textOriginal": "好想藏鏡人",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-09-27T01:26:39.000Z",
+                    "updatedAt": "2017-09-27T01:26:39.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/CUjIFtqVEiqOW6pkbSR5-1HnXug\"",
+        "id": "z23tytq4mszsvjfz204t1aokg5jlfpirftg2uxizfiy2rk0h00410",
+        "snippet": {
+            "videoId": "xuCQFhPanr4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/0IwN9MA0cHhoa3JQ3-vk2X9lqaI\"",
+                "id": "z23tytq4mszsvjfz204t1aokg5jlfpirftg2uxizfiy2rk0h00410",
+                "snippet": {
+                    "authorDisplayName": "爆乳 粉紅鮑 加賴 787gg",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-tO0SHaUZZOg/AAAAAAAAAAI/AAAAAAAAAAA/6RSOWbOTLcM/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCwAOWntcy_HmC4DuolZSM8Q",
+                    "authorChannelId": {
+                        "value": "UCwAOWntcy_HmC4DuolZSM8Q"
+                    },
+                    "videoId": "xuCQFhPanr4",
+                    "textDisplay": "一起來做 朋友 ！！！",
+                    "textOriginal": "一起來做 朋友 ！！！",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-09-24T15:44:17.000Z",
+                    "updatedAt": "2017-09-24T15:44:17.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/fHAfXPjaFp4h5igxJyKEaPd7JuE\"",
+        "id": "z22ctblhss3yhrq2wacdp434ogejc3wq23zep0bvow5w03c010c",
+        "snippet": {
+            "videoId": "xuCQFhPanr4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/9bcNIbZWzEnuKnfMye2h5TIWUZA\"",
+                "id": "z22ctblhss3yhrq2wacdp434ogejc3wq23zep0bvow5w03c010c",
+                "snippet": {
+                    "authorDisplayName": "萌彌 Ouo",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-e-sw0zmQ6UU/AAAAAAAAAAI/AAAAAAAAAAA/LSJByEG9n6M/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCL6ZKHAjV2HW7RagK25qwyw",
+                    "authorChannelId": {
+                        "value": "UCL6ZKHAjV2HW7RagK25qwyw"
+                    },
+                    "videoId": "xuCQFhPanr4",
+                    "textDisplay": "我小時候看市長長大😂",
+                    "textOriginal": "我小時候看市長長大😂",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-09-24T13:20:05.000Z",
+                    "updatedAt": "2017-09-24T13:20:05.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/p8IZJoVKCuef-5eVQctfgD1Q0TY\"",
+        "id": "z23byz1gwtb4wfo0nacdp43a1p0fxw2h2glnsa2pi3lw03c010c",
+        "snippet": {
+            "videoId": "xuCQFhPanr4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/f_v8UDwiDuZd0_bYArTi17Dozpc\"",
+                "id": "z23byz1gwtb4wfo0nacdp43a1p0fxw2h2glnsa2pi3lw03c010c",
+                "snippet": {
+                    "authorDisplayName": "陳聖潔",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-bewbnWGCLvg/AAAAAAAAAAI/AAAAAAAAAAA/1XwGH6Uncxw/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCiP9XIdT6Ox8NlPAgqrB4iA",
+                    "authorChannelId": {
+                        "value": "UCiP9XIdT6Ox8NlPAgqrB4iA"
+                    },
+                    "videoId": "xuCQFhPanr4",
+                    "textDisplay": "好可愛喔柯市長",
+                    "textOriginal": "好可愛喔柯市長",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-09-23T15:56:20.000Z",
+                    "updatedAt": "2017-09-23T15:56:20.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/dI4_yjKaUgRSnVHOdTV4b20zp_U\"",
+        "id": "z22sjhv4ks2xyfiu3acdp435eixv13dqb2gmvmyiogdw03c010c",
+        "snippet": {
+            "videoId": "xuCQFhPanr4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/ywdvwi_vz1VqB-urjhfS3Y8-4-Q\"",
+                "id": "z22sjhv4ks2xyfiu3acdp435eixv13dqb2gmvmyiogdw03c010c",
+                "snippet": {
+                    "authorDisplayName": "jen betty",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-K5JrXix0m4Q/AAAAAAAAAAI/AAAAAAAAAAA/Of2rXjDX50g/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCEnJkQv9FFE0yVj526Fqeag",
+                    "authorChannelId": {
+                        "value": "UCEnJkQv9FFE0yVj526Fqeag"
+                    },
+                    "videoId": "xuCQFhPanr4",
+                    "textDisplay": "校使噁了XD........",
+                    "textOriginal": "校使噁了XD........",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-09-23T01:38:40.000Z",
+                    "updatedAt": "2017-09-23T01:38:40.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }, {
+        "kind": "youtube#commentThread",
+        "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/D4yd_Q0LHWM_mJtd4o7pWtBdiVQ\"",
+        "id": "z221ij3xvnabivgyn04t1aokgs5ikpfm3ak3n31bznotrk0h00410",
+        "snippet": {
+            "videoId": "xuCQFhPanr4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/NIK2p1qTLF6bKoGqy4Ia-NpZXFw\"",
+                "id": "z221ij3xvnabivgyn04t1aokgs5ikpfm3ak3n31bznotrk0h00410",
+                "snippet": {
+                    "authorDisplayName": "末日 KMT",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-CwPzgfyLONo/AAAAAAAAAAI/AAAAAAAAAAA/948PuXvF1xI/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCsel1l6cPfSw4PH2SkTp51g",
+                    "authorChannelId": {
+                        "value": "UCsel1l6cPfSw4PH2SkTp51g"
+                    },
+                    "videoId": "xuCQFhPanr4",
+                    "textDisplay": "現在在支持柯文哲的紅藍白綠四色都有<br />紅色跟藍色是早就知道柯文哲是他們自己人所以支持他<br />至於白色真是一堆白癡.就只因為他曾經出席洪仲丘的造勢大會.就把他認為是白色的.無腦的典型<br />至於綠色的更是極端的無腦加三級<br />投票給他的原因僅只是因為他曾自稱自己是墨綠.如此好騙的選民.亙古以來.從未曾有.難怪閩越在漢武帝時被滅國.被滅國也就算了.後代子孫居然還自認為自己是漢人.蠢到不會抓癢的就是台灣人<br />我請問各位.在台灣會有什麼人會跑去秘見中共的統戰部長.除了被吸收為共諜外還有可能其他原因嗎.請問國安局不需要調查嗎.不需要問他答應中共甚麼秘密條件.不需要調查他拿了中共甚麼錢嗎<br />再來講連勝文槍擊案.請問你們都沒去看過醫生嗎.沒住過院嗎.請問你住院的時候該科的主任會去探望你嗎.蠢到不會抓癢.創傷科主任僅只是行政職位.管理該科各醫師的行政.並不需要每個病患都跑去看他的傷勢.真的要跑從早到晚都看不完.他還能看病開刀嗎<br />請問一下.連勝文受槍傷真正知道他傷勢的人是誰.應該是他的主治醫師及負責的護士吧.你有見過這兩個人接受記者訪問嗎.真正該面對社會大眾的人躲起來.連長甚麼樣都不知道.而不可能知道傷勢的柯文哲卻像是著了火一樣跳出來替馬英九背書.還編一個謊說他是墨綠.然後又在與連勝文辯論時無恥的說.(說自己是墨綠是為了證明��的槍擊案是真的).真的奸惡的程度連曹操都自嘆不如.曹操被罵奸臣.只因為他把持朝政.但是在曹操活著的時候.漢獻帝都還享受皇帝的尊榮.曹操作戰只用計謀.但不會騙人.不像柯文哲公然的承認說謊還居然臉不紅氣不喘.當真是史無前例的絕品奸臣",
+                    "textOriginal": "現在在支持柯文哲的紅藍白綠四色都有\n紅色跟藍色是早就知道柯文哲是他們自己人所以支持他\n至於白色真是一堆白癡.就只因為他曾經出席洪仲丘的造勢大會.就把他認為是白色的.無腦的典型\n至於綠色的更是極端的無腦加三級\n投票給他的原因僅只是因為他曾自稱自己是墨綠.如此好騙的選民.亙古以來.從未曾有.難怪閩越在漢武帝時被滅國.被滅國也就算了.後代子孫居然還自認為自己是漢人.蠢到不會抓癢的就是台灣人\n我請問各位.在台灣會有什麼人會跑去秘見中共的統戰部長.除了被吸收為共諜外還有可能其他原因嗎.請問國安局不需要調查嗎.不需要問他答應中共甚麼秘密條件.不需要調查他拿了中共甚麼錢嗎\n再來講連勝文槍擊案.請問你們都沒去看過醫生嗎.沒住過院嗎.請問你住院的時候該科的主任會去探望你嗎.蠢到不會抓癢.創傷科主任僅只是行政職位.管理該科各醫師的行政.���不需要每個病患都跑去看他的傷勢.真的要跑從早到晚都看不完.他還能看病開刀嗎\n請問一下.連勝文受槍傷真正知道他傷勢的人是誰.應該是他的主治醫師及負責的護士吧.你有見過這兩個人接受記者訪問嗎.真正該面對社會大眾的人躲起來.連長甚麼樣都不知道.而不可能知道傷勢的柯文哲卻像是著了火一樣跳出來替馬英九背書.還編一個謊說他是墨綠.然後又在與連勝文辯論時無恥的說.(說自己是墨綠是為了證明你的槍擊案是真的).真的奸惡的程度連曹操都自嘆不如.曹操被罵奸臣.只因為他把持朝政.但是在曹操活著的時候.漢獻帝都還享受皇帝的尊榮.曹操作戰只用計謀.但不會騙人.不像柯文哲公然的承認說謊還居然臉不紅氣不喘.當真是史無前例的絕品奸臣",
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2017-09-22T13:01:14.000Z",
+                    "updatedAt": "2017-09-22T13:01:14.000Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }]
+}
