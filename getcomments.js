@@ -95,7 +95,7 @@ function recursivetest(url, token, name) {
     })
   }
 }
-i = 7
+i = 8
 var dir = "./" + videoarray[i] + "_" + people[i]
 if (!fs.existsSync(dir)){
   fs.mkdirSync(dir);
