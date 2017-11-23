@@ -18,6 +18,7 @@
   "homepage": "https://github.com/polarjack/youtubenode#readme",
   "dependencies": {
     "json2csv": "^3.11.5",
+    "promise": "^8.0.1",
     "sleep": "^5.1.1"
   }
 }
